@@ -7,7 +7,7 @@ Store the videos in a folder directory named "Lung ultrasound exams_MovieClips/L
 Store the model pickle files in a folder named "model_weights"
 
 ## Dataset & Model Weights
-### Additional details about the dataset and the trained model weights will be provided upon request
+### Dataset and model weights are not publicly released here for privacy reasons. Additional details will be provided on request.
 
 ## Method
 Two main parts of the method and their corresponding python notebook files:
