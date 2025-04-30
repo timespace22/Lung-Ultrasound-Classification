@@ -1,10 +1,13 @@
 # Deep Learning Methods for Lung Ultrasound Classification
 An automated ultrasound screening system which takes in the ultrasound clips as input, converts them into frames and filters out relevant frames using frame selection techniques, trains a model on the frames and predicts the presence of pneumonia.
 
-## Data
+## Data folder structure
 Store the videos in a folder directory named "Lung ultrasound exams_MovieClips/Lung ultrasound exams/{Patient_id}" according to the corresponding Patient_id
 
 Store the model pickle files in a folder named "model_weights"
+
+## Dataset & Model Weights
+### Additional details about the dataset and the trained model weights will be provided upon request
 
 ## Method
 Two main parts of the method and their corresponding python notebook files:
@@ -23,5 +26,3 @@ Steps to run:
 
 ## CNN + DenseNet-201 architecture:
 ![CNN_Architecture](https://github.com/user-attachments/assets/0469f010-d337-45cd-b50b-5e4ad9bc402a)
-
-### Additional details about the dataset will be provided upon request
